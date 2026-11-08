@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "argilla-direct-poc",
+  "versions": [
+    {
+      "commit": "72c97abc31a308e2fc53dc03cdb5a35ab84281c0",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:22:49.047746+00:00"
+    }
+  ]
+}
