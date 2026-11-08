@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/argilla-direct-poc/commit/72c97abc31a308e2fc53dc03cdb5a35ab84281c0",
       "git:hexsha": "72c97abc31a308e2fc53dc03cdb5a35ab84281c0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
